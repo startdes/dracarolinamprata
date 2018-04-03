@@ -28,7 +28,14 @@
 }
 
 body {
-background: #E7475E;
+background: rgba(214,197,200,1);
+background: -moz-radial-gradient(center, ellipse cover, rgba(214,197,200,1) 0%, rgba(231,71,95,1) 100%);
+background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(214,197,200,1)), color-stop(100%, rgba(231,71,95,1)));
+background: -webkit-radial-gradient(center, ellipse cover, rgba(214,197,200,1) 0%, rgba(231,71,95,1) 100%);
+background: -o-radial-gradient(center, ellipse cover, rgba(214,197,200,1) 0%, rgba(231,71,95,1) 100%);
+background: -ms-radial-gradient(center, ellipse cover, rgba(214,197,200,1) 0%, rgba(231,71,95,1) 100%);
+background: radial-gradient(ellipse at center, rgba(214,197,200,1) 0%, rgba(231,71,95,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d6c5c8', endColorstr='#e7475f', GradientType=1 );
 }
 
 .geral {
