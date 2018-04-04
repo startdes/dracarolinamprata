@@ -1,5 +1,5 @@
 .logo {    
-    width: 250px;
+    width: 300px;
 }
 
 .divlinks {
@@ -28,14 +28,7 @@
 }
 
 body {
-background: rgba(204,166,173,1);
-background: -moz-radial-gradient(center, ellipse cover, rgba(204,166,173,1) 0%, rgba(231,71,95,1) 100%);
-background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, rgba(204,166,173,1)), color-stop(100%, rgba(231,71,95,1)));
-background: -webkit-radial-gradient(center, ellipse cover, rgba(204,166,173,1) 0%, rgba(231,71,95,1) 100%);
-background: -o-radial-gradient(center, ellipse cover, rgba(204,166,173,1) 0%, rgba(231,71,95,1) 100%);
-background: -ms-radial-gradient(center, ellipse cover, rgba(204,166,173,1) 0%, rgba(231,71,95,1) 100%);
-background: radial-gradient(ellipse at center, rgba(204,166,173,1) 0%, rgba(231,71,95,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cca6ad', endColorstr='#e7475f', GradientType=1 );
+background: rgb(240, 215, 229);
 }
 
 .geral {
