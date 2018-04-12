@@ -1,5 +1,7 @@
 .logo {    
-    width: 300px;
+    width: 210px;
+    padding-top: 20px;
+    padding-bottom: 15px;
 }
 
 .divlinks {
@@ -28,7 +30,7 @@
 }
 
 body {
-background: rgb(240, 215, 229);
+background: rgb(255, 251, 255);
 }
 
 .geral {
